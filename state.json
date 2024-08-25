@@ -1,0 +1,9 @@
+{
+    "output" : [
+        {
+            "point" : {"A": false, "B": false, "C" : false},
+            "segment" : {"A": false, "B": false, "C" : false},
+            "arc" : {"A": false, "B": false, "C" : false}
+        }
+    ]
+}
